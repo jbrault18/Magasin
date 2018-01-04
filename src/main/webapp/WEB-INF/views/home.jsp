@@ -8,6 +8,9 @@
 <h1>
 	Hello world! Alléluia Rémi it works !!!!! :)   
 </h1>
+<h2>
+Indeed it works :p
+</h2>
 
 <P>  The time on the server is ${serverTime}. </P>
 </body>
